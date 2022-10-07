@@ -1,0 +1,47 @@
+git is a version control system 
+
+1. git --version
+
+2. git config --global user.name " enter your name here " 
+
+3. git config --global user.email " enter your email here "
+
+4. git config --global --edit
+
+5. git config --global user.name 
+
+6. git config --global user.email
+
+7. mkdir LetsLearnGit
+
+8. cd LetsLearnGit/
+
+9. git init
+
+10. ls 
+
+11. ls -a 
+
+12. git status
+
+13. git add <file name> // to bring the files in the staging area  
+
+14. working directory
+git add  |
+         |
+    staging area
+         |    git commit
+         |
+    repository
+
+15. git commit -m "initial commit"
+
+16. git log
+
+
+
+gjhfvy
+
+
+
+
