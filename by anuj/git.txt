@@ -38,9 +38,21 @@ git add  |
 
 16. git log
 
+17. git add. // to bring all the files to the staging area
+
+18. git checkout <commit has code/branch name>
+
+19  git checkout master // to come wapis
+
+20. git branch <branch name> // to make a new branch
+
+21. git checkout <branch name> // to come to that branch
+
+22. git chekout -b anuj/multiply // isse branch bnne k sath sath usme chekout bhi kr jayga 
+
+23.
 
 
-gjhfvy
 
 
 
